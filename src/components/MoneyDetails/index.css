@@ -1,0 +1,51 @@
+.money-info-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 28px;
+}
+
+.money-card {
+  border-radius: 18px;
+  width: 250px;
+  height: 110px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.balance {
+  background-color: #ecfccb;
+  border: 1px solid #84cc16;
+}
+
+.income {
+  background-color: #cffafe;
+  border: 1px solid #06b6d4;
+}
+
+.expenses {
+  background-color: #ede9fe;
+  border: 1px solid #7c3aed;
+}
+
+.money-manager-icons {
+  height: 60px;
+  width: 60px;
+}
+
+.money-info {
+  margin-left: 18px;
+}
+
+.title {
+  font-family: 'Roboto';
+  color: #7e858e;
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.money {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 22px;
+}
